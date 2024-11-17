@@ -20,7 +20,7 @@ Data Visualization
 
 Python (Pandas, Seaborn, Matplotlib, Scipy, Scikit-learn, )
 
-SQL(MySQL)
+SQL(MySQL & Apache Spark SQL)
 
 Power BI
 
