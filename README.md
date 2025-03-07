@@ -1,4 +1,4 @@
-## Hello and welcome to my Github profile.
+## Hello and welcome to my Github profile📌📌.
 I'm Priscilla Naadu Lartey, a dedicated data scientist with a passion for discovering insights through data and building machine learning models. 
 My focus lies in machine learning and its applications. 
 
