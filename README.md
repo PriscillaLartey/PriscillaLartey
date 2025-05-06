@@ -1,6 +1,6 @@
 ## Hello and welcome to my Github profile📌📌.
-I'm Priscilla Naadu Lartey, a dedicated data scientist with a passion for discovering insights through data and building machine learning models. 
-My focus lies in machine learning and its applications. 
+I'm Priscilla Naadu Lartey, a dedicated data scientist with a passion for discovering insights through data and building machine learning models.
+My focus lies in machine learning and its applications in diverse fields of data. Problem-solving is my ultimate goal.
 
 Currently honing my skills in data analysis, visualization, and predictive modeling, 
 I'm eager to contribute to impactful projects that leverage AI for real-world solutions.
