@@ -143,8 +143,8 @@ I'm always excited to collaborate on data science projects, discuss ML innovatio
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=PriscillaLartey&color=blueviolet&style=for-the-badge)
 
-*⭐ From [Priscilla Naadu Lartey](https://github.com/yourusername) - Let's build the future with data!*
+*⭐ From [Priscilla Naadu Lartey](https://github.com/PriscillaLartey) - Let's build the future with data!*
 
 </div>
