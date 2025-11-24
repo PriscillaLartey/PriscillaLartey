@@ -20,9 +20,10 @@
 
 My expertise spans **machine learning**, **statistical analysis**, and **data visualization**, with a special focus on:
 
+- 📊 **Data-Driven Decision Making** - Turning complex datasets into actionable insights
 - 🔋 **Energy Analytics** - Optimizing building efficiency through predictive modeling
 - 🛡️ **NLP & Social Good** - Detecting harmful content and protecting online communities  
-- 📊 **Data-Driven Decision Making** - Turning complex datasets into actionable insights
+
 
 Currently enhancing my skills in **deep learning**, **big data analytics**, and **cloud-based ML solutions** to create AI applications with measurable impact.
 
