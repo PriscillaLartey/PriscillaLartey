@@ -135,7 +135,7 @@ mindmap
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PriscillaLartey&theme=tokyonight)
 
 </div>
 
