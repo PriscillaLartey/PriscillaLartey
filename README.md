@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/naadu51@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:naadu51@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow-181717?style=flat&logo=github&logoColor=white&labelColor=181717)](https://github.com/yourusername)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+Complex+Data+into+Clear+Insights;Communicating+Impact+Through+Visualization)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+Complex+Data+into+Clear+Insights;Communicating+Impact+Through+Visualization;Creating+Intelligent+NLP+Solutions+for+Real+Impact)
 
 </div>
 
