@@ -2,13 +2,13 @@
 
 # 👋 Hi, I'm Priscilla Naadu Lartey
 
-### Data Scientist | Machine Learning Engineer | Problem Solver
+### Data Scientist | NLP Engineer | Problem Solver
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larteypriscilla/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naadu51@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PriscillaLartey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/larteypriscilla/)
+[![Email](https://img.shields.io/badge/naadu51@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:naadu51@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow-181717?style=flat&logo=github&logoColor=white&labelColor=181717)](https://github.com/yourusername)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Insights;Building+Intelligent+ML+Solutions;Solving+Real-World+Problems+with+AI)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+NLP+Engineer+%7C+Data+Storyteller;Turning+Complex+Data+into+Clear+Insights;Communicating+Impact+Through+Visualization)
 
 </div>
 
@@ -16,24 +16,17 @@
 
 ## 🚀 About Me
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Priscilla Naadu Lartey"
-        self.role = "Data Scientist"
-        self.passion = ["Machine Learning", "Data Analytics", "AI Solutions"]
-        self.current_focus = "Building predictive models for real-world impact"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's turn data into decisions.")
+> **Data Scientist** passionate about uncovering insights and building intelligent machine learning models that solve real-world problems.
 
-me = DataScientist()
-me.say_hi()
-```
+My expertise spans **machine learning**, **statistical analysis**, and **data visualization**, with a special focus on:
 
-I'm a **data scientist** passionate about uncovering insights through data and building intelligent machine learning models. My expertise spans **machine learning**, **statistical analysis**, and **data visualization**, with a focus on creating AI solutions that solve real-world problems.
+- 🔋 **Energy Analytics** - Optimizing building efficiency through predictive modeling
+- 🛡️ **NLP & Social Good** - Detecting harmful content and protecting online communities  
+- 📊 **Data-Driven Decision Making** - Turning complex datasets into actionable insights
 
-Currently enhancing my skills in **predictive modeling**, **deep learning**, and **big data analytics** to contribute to impactful projects that leverage the power of AI.
+Currently enhancing my skills in **deep learning**, **big data analytics**, and **cloud-based ML solutions** to create AI applications with measurable impact.
+
+💡 *I believe the best solutions come from understanding both the data and the people it serves.*
 
 ---
 
@@ -125,6 +118,22 @@ Currently enhancing my skills in **predictive modeling**, **deep learning**, and
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)](https://github.com/yourusername)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6)](https://github.com/yourusername)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/yourusername)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/yourusername)
+
+</div>
+
+---
+
 ## 🌱 Currently Learning
 
 - 🧠 Deep Learning & Neural Networks
@@ -140,8 +149,8 @@ Currently enhancing my skills in **predictive modeling**, **deep learning**, and
 
 I'm always excited to collaborate on data science projects, discuss ML innovations, or explore opportunities to create impact with AI!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/larteypriscilla/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naadu51@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/larteypriscilla/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:naadu51@gmail.com)
 
 **💡 "Data is the new oil, but insights are the refined fuel that drives innovation."**
 
@@ -151,8 +160,8 @@ I'm always excited to collaborate on data science projects, discuss ML innovatio
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=PriscillaLartey&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
 
-*⭐ From [Priscilla Naadu Lartey](https://github.com/PriscillaLartey) - Let's build the future with data!*
+*⭐ From [Priscilla Naadu Lartey](https://github.com/yourusername) - Let's build the future with data!*
 
 </div>
