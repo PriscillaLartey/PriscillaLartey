@@ -66,26 +66,27 @@ Currently enhancing my skills in **predictive modeling**, **deep learning**, and
 
 ## 💼 Core Competencies
 
-```mermaid
-mindmap
-  root((Data Science))
-    Machine Learning
-      Supervised Learning
-      Model Optimization
-      Feature Engineering
-    Data Analysis
-      Statistical Analysis
-      Data Wrangling
-      Exploratory Data Analysis
-    Visualization
-      Power BI Dashboards
-      Python Visualizations
-      Data Storytelling
-    Big Data
-      Apache Spark SQL
-      MySQL Databases
-      Data Pipelines
-```
+<div align="center">
+
+| 🤖 Machine Learning | 📊 Data Analysis | 📈 Visualization | 🗄️ Big Data |
+|:---:|:---:|:---:|:---:|
+| Supervised Learning | Statistical Analysis | Power BI Dashboards | Apache Spark SQL |
+| Model Optimization | Data Wrangling | Python Visualizations | MySQL Databases |
+| Feature Engineering | EDA & Insights | Data Storytelling | Data Pipelines |
+| Predictive Modeling | Hypothesis Testing | Interactive Reports | Query Optimization |
+
+</div>
+
+<div align="center">
+
+**🎯 Skills Proficiency**
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-85%25-success?style=flat-square&logo=tensorflow&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-90%25-success?style=flat-square&logo=python&logoColor=white)
+![Visualization](https://img.shields.io/badge/Visualization-80%25-success?style=flat-square&logo=plotly&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-85%25-success?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
 
 ---
 
@@ -128,14 +129,13 @@ mindmap
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)](https://github.com/yourusername)
 
-</div>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6)](https://github.com/yourusername)
 
-<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/yourusername)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PriscillaLartey&theme=tokyonight)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/yourusername)
 
 </div>
 
