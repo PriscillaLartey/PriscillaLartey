@@ -125,22 +125,6 @@ Currently enhancing my skills in **predictive modeling**, **deep learning**, and
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriscillaLartey&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)](https://github.com/PriscillaLartey)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriscillaLartey&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6)](https://github.com/PriscillaLartey)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PriscillaLartey&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/PriscillaLartey)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PriscillaLartey&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/PriscillaLartey)
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 - 🧠 Deep Learning & Neural Networks
