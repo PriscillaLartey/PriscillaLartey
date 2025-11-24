@@ -116,30 +116,12 @@ Currently enhancing my skills in **deep learning**, **big data analytics**, and 
 </tr>
 </table>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)](https://github.com/yourusername)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6)](https://github.com/yourusername)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/yourusername)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/yourusername)
-
-</div>
-
----
 
 ## 🌱 Currently Learning
 
-- 🧠 Deep Learning & Neural Networks
-- 📈 Advanced Time Series Analysis
-- ☁️ Cloud Computing (AWS/Azure for ML)
 - 🤖 Large Language Models (LLMs)
+- 🧠 Deep Learning & Neural Networks
+- ☁️ Cloud Computing (AWS/Azure for ML)
 
 ---
 
