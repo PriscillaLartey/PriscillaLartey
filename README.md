@@ -16,11 +16,11 @@
 
 ## 🚀 About Me
 
-> **Data Scientist** passionate about uncovering insights and building intelligent machine learning models that solve real-world problems.
+> **Professional Problem Solver** passionate about uncovering insights in data and building intelligent machine learning models that solve real-world problems.
 
-My expertise spans **machine learning**, **statistical analysis**, and **data visualization**, with a special focus on:
+My expertise spans **data analysis**, **data visualization**, and **Natural Language Processing (NLP)**, with a special focus on:
 
-- 📊 **Data-Driven Decision Making** - Turning complex datasets into actionable insights
+- 📊 **Big Data for Decision Making** - Turning complex datasets into actionable insights
 - 🔋 **Energy Analytics** - Optimizing building efficiency through predictive modeling
 - 🛡️ **NLP & Social Good** - Detecting harmful content and protecting online communities  
 
