@@ -102,8 +102,7 @@ Currently enhancing my skills in **deep learning**, **big data analytics**, and 
   <img src="https://img.shields.io/badge/View_Project-0066cc?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
 </a>
 </td>
-<td width="50%">
-
+<td width="50%" >
 ### 🛡️ Cyberbully Detection System
 **Objective:** NLP model to identify and flag cyberbullying content on social media
 **Tech Stack:** `Python` `NLP` `Scikit-learn` `Text Processing`
@@ -124,7 +123,7 @@ Currently enhancing my skills in **deep learning**, **big data analytics**, and 
 
 - 🤖 Large Language Models (LLMs)
 - 🧠 Deep Learning & Neural Networks
-- ☁️ Cloud Computing (AWS/Azure for ML)
+- ☁️ Big Data Analytics
 
 ---
 
