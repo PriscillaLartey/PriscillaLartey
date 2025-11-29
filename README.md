@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Priscilla Naadu Lartey
 
-### Data Scientist | Problem Solver | NLP Engineer  
+### Data Analyst | Data Scientist | Problem Solver | NLP Engineer  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/larteypriscilla/)
 [![Email](https://img.shields.io/badge/naadu51@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:naadu51@gmail.com)
