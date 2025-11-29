@@ -88,7 +88,7 @@ Currently enhancing my skills in **deep learning**, **big data analytics**, and 
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏠 Energy Efficiency Predictive Modeling
 **Objective:** Predictive model for building heating and cooling loads for optimal HVAC design
@@ -102,7 +102,8 @@ Currently enhancing my skills in **deep learning**, **big data analytics**, and 
   <img src="https://img.shields.io/badge/View_Project-0066cc?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
 </a>
 </td>
-<td width="50%" >
+<td width="50%" valign="top">
+  
 ### 🛡️ Cyberbully Detection System
 **Objective:** NLP model to identify and flag cyberbullying content on social media
 **Tech Stack:** `Python` `NLP` `Scikit-learn` `Text Processing`
