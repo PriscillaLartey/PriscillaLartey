@@ -25,7 +25,7 @@ My expertise spans **machine learning**, **statistical analysis**, and **data vi
 - 🛡️ **NLP & Social Good** - Detecting harmful content and protecting online communities  
 
 
-Currently enhancing my skills in **deep learning**, **big data analytics**, and **cloud-based ML solutions** to create NLP/AI applications with measurable impact.
+Currently enhancing my skills on **deep learning** and **big data analytics** and applying them to hands-on **NLP projects**.
 
 💡 *I believe the best solutions come from understanding both the data and the people it serves.*
 
