@@ -25,7 +25,7 @@ My expertise spans **machine learning**, **statistical analysis**, and **data vi
 - 🛡️ **NLP & Social Good** - Detecting harmful content and protecting online communities  
 
 
-Currently enhancing my skills in **deep learning**, **big data analytics**, and **cloud-based ML solutions** to create AI applications with measurable impact.
+Currently enhancing my skills in **deep learning**, **big data analytics**, and **cloud-based ML solutions** to create NLP/AI applications with measurable impact.
 
 💡 *I believe the best solutions come from understanding both the data and the people it serves.*
 
@@ -91,28 +91,30 @@ Currently enhancing my skills in **deep learning**, **big data analytics**, and 
 <td width="50%">
 
 ### 🏠 Energy Efficiency Predictive Modeling
-**Objective:** Predict heating and cooling loads for optimal building energy efficiency
-
-**Tech Stack:** `Python` `Scikit-learn` `Pandas` `Regression Models`
-
+**Objective:** Predictive model for building heating and cooling loads for optimal HVAC design
+**Tech Stack:** `Python` `Machine Learning` `Scikit-learn` `Pandas` `Regression`
 **Key Achievements:**
 - ✅ Engineered features from building design parameters
 - ✅ Achieved high prediction accuracy for energy consumption
 - ✅ Identified key factors influencing thermal performance
 
+<a href="https://github.com/PriscillaLartey/Predictive-Modeling-for-Building-Energy-Efficiency" target="_blank">
+  <img src="https://img.shields.io/badge/View_Project-0066cc?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+</a>
 </td>
 <td width="50%">
 
 ### 🛡️ Cyberbully Detection System
 **Objective:** NLP model to identify and flag cyberbullying content on social media
-
 **Tech Stack:** `Python` `NLP` `Scikit-learn` `Text Processing`
-
 **Key Achievements:**
 - ✅ Processed and cleaned large-scale tweet datasets
 - ✅ Implemented text classification algorithms
 - ✅ Built robust model for real-time detection
 
+<a href="https://github.com/PriscillaLartey/Cyberbully-Detection-Using-NLP" target="_blank">
+  <img src="https://img.shields.io/badge/View_Project-0066cc?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+</a>
 </td>
 </tr>
 </table>
