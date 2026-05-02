@@ -16,12 +16,12 @@
 
 ## 🚀 About Me
 
-> **Professional Problem Solver** passionate about uncovering insights in data and building intelligent machine learning models that solve real-world problems.
+> **Professional Problem Solver** who is all about uncovering insights in data and building intelligent solution that solve pressing problems for multiple industries.
 
-My expertise spans **data analysis**, **data visualization**, and **Natural Language Processing (NLP)**, with a special focus on:
+My expertise spans across **data analysis**, **data visualization**, and **Natural Language Processing (NLP)**, with a special focus on:
 
 - 📊 **Big Data for Decision Making** - Turning complex datasets into actionable insights
-- 🔋 **Energy Analytics** - Optimizing building efficiency through predictive modeling
+- 🔋 **Energy Analytics** - Optimizing energy efficiency through predictive modeling
 - 🛡️ **NLP & Social Good** - Detecting harmful content and protecting online communities  
 
 
@@ -120,19 +120,18 @@ Currently enhancing my skills on **deep learning** and **big data analytics** an
 </table>
 
 
-## 🌱 Currently Learning
+## 🌱 Currently Focusing on;
 
-- 🤖 Large Language Models (LLMs)
-- 🧠 Deep Learning & Neural Networks
-- ☁️ Big Data Analytics
-
+- ☁️ Big Data Analytics — turning complex data into clear, actionable insights.
+- 🧠 Data Communication — delivering customer-centric business insights through compelling visualizations.
+- 🤖 Large Language Models (LLMs) — building intelligent AI agentic workflows for businesses.
 ---
 
 ## 📫 Let's Connect!
 
 <div align="center">
 
-I'm always excited to collaborate on data science projects, discuss ML innovations, or explore opportunities to create impact with AI!
+I'm always excited to collaborate on data science projects, discuss incredible data innovations, or explore opportunities to create impact with AI!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/larteypriscilla/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:naadu51@gmail.com)
